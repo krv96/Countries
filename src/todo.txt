@@ -1,0 +1,5 @@
+1- Add Dark/Light mode
+2- Add spacing between components 
+3- Add search bar 
+4- Add filter by region
+5- Add country info component 
